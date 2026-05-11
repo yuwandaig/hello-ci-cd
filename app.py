@@ -1,5 +1,5 @@
 import time
 
 while True:
-    print("Hello World versi ultimate 🚀", flush=True)
+    print("agus disini 🚀", flush=True)
     time.sleep(5)
